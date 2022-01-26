@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TEMPLETE</title>
+</head>
+
+<body>
+    <table border="0" width="100%" colspan="6">
+        <tr>
+            <td width="100%" height="500px" valign="top" colspan="6">
+                <img src="templete.jpg" alt="" width="100%" height="500px">
+            </td>
+        </tr>
+        <tr>
+            <td width="15%" height="100px" colspan="1"></td>
+            <td width="70%" colspan="1"> Find a quality and right headphones not easy
+                <p>
+                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. At labore, maxime consequuntur atque,
+                    obcaecati nesciunt harum animi odio, est vel aspernatur deleniti esse. Eveniet nam id aperiam
+                    ducimus ad illum, amet aut vero quibusdam pariatur ipsum totam consequuntur aspernatur beatae atque
+                    sint cum optio eius molestiae nulla. Aut, consectetur voluptatem.
+                </p>
+            </td>
+            <td width="15%" colspan="1"></td>
+        </tr>
+        <tr>
+            <td align="center" height="100px" colspan="6" bgcolor="#4d753e">
+                Business HTML
+            </td>
+        </tr>
+        <tr>
+            <td width="15%" height="100px" colspan="1"></td>
+            <td width="70%" colspan="1">
+                <h1> Hottest Headphones of the month </h1>
+            </td>
+            <td width="15%" colspan="1"></td>
+        </tr>
+        <tr>
+            <td width="15%" height="250px"></td>
+            <td width="70%">
+                <table border="0" width="100%" height="250px">
+                    <tr>
+                        <td width=33% height="250px">
+                            <img src="h1.jpg" width="100%" height="250px" alt="">
+                        </td>
+                        <td width=33% height="250px"> <img src="h2.jpg" width="100%" height="250px" alt=""></td>
+                        <td width=33% height="250px"> <img src="h3.jpg" width="100%" height="250px" alt=""></td>
+                    </tr>
+                </table>
+            </td>
+            <td width="15%" height="250px"></td>
+        </tr>
+        <tr>
+            <td width="15%" height="100px" colspan="1"></td>
+            <td width="70%" colspan="1">
+                <h1> Meet our New Headphones</h1>
+            </td>
+            <td width="15%" colspan="1"></td>
+        </tr>
+        <tr>
+            <td width="15%" height="250px"></td>
+            <td width="70%" height="250px">
+                <table border="0" width="100%" height="250px">
+                    <tr>
+                        <td width="25%" height="200px"> <img src="h1.jpg" alt="" width="100%" height="250px"></td>
+                        <td width="25%" height="200px"> <img src="h2.jpg" alt="" width="100%" height="250px"></td>
+                        <td width="25%" height="200px"> <img src="h3.jpg" alt="" width="100%" height="250px"></td>
+                        <td width="25%" height="200px"> <img src="h4.jpg" alt="" width="100%" height="250px"></td>
+                    </tr>
+                    <tr>
+                        <td width="25%" height="200px"> <img src="h1.jpg" alt="" width="100%" height="250px"></td>
+                        <td width="25%" height="200px"> <img src="h2.jpg" alt="" width="100%" height="250px"></td>
+                        <td width="25%" height="200px"> <img src="h3.jpg" alt="" width="100%" height="250px"></td>
+                        <td width="25%" height="200px"> <img src="h4.jpg" alt="" width="100%" height="250px"></td>
+                    </tr>
+                </table>
+            </td>
+            <td width="15%" height="250px"></td>
+        <tr>
+            <td width="15%" height="100px" bgcolor="#4d753e"></td>
+            <td width="70%" height="100px" bgcolor="#4d753e"> Like it? Pre Order and get a discount</td>
+            <td width="15%" height="100px" bgcolor="#4d753e"></td>
+        </tr>
+    </table>
+</body>
+
+</html>
